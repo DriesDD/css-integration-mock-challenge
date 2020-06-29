@@ -7,9 +7,9 @@ This project consists of the elaboration of different challenges to evaluate lea
 
 [Address1]: https://trial-run-interface1.netlify.app/
 
-+Interface#2 [<< View the product >>][Address2]
++Interface#2 [<< View the product >>][Address2] (*Optimized for Movile Devices)
 
 [Address2]: https://trial-run-interface2.netlify.app/
 
 ***
-CopyRights to Victor Ortega for BeCode
+Copyrights to Victor Ortega for BeCode
