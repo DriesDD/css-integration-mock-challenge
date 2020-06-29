@@ -1,0 +1,25 @@
+.container{
+    font-family: 'Roboto', sans-serif;
+    background-color: #4285f4;
+    margin: 10px;  
+    
+}
+.regular{
+    font-size: 1em;
+    color: #ffffff;
+   }
+.big{
+    font-size: 3em;
+    color: #ffffff;
+}
+.small{
+    font-size: 0.8em;
+    color: #ffffff;
+}
+.c_left{
+    float: left;
+}
+
+.c_right{
+    float: right;
+}
