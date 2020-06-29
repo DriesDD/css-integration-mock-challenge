@@ -1,5 +1,5 @@
 body {
-  font-family: verdana, arial, sans-serif;
+  font-family: lucida Sans, arial, sans-serif;
   text-align: center;
 }
 .container {
@@ -21,9 +21,10 @@ img {
 p {
   text-align: left;
   width: 80%;
+  color: #666666;
 }
 .p_title {
-  color: #7c3c21;
+  color: #5cf0f0;
   font-size: 1em;
   font-weight: bolder;
   text-align: left;
