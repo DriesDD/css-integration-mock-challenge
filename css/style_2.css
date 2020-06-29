@@ -1,25 +1,57 @@
-.container{
-    font-family: 'Roboto', sans-serif;
-    background-color: #4285f4;
-    margin: 10px;  
-    
+*{
+    margin:5px;
 }
-.regular{
-    font-size: 1em;
-    color: #ffffff;
-   }
-.big{
-    font-size: 3em;
-    color: #ffffff;
+.container {
+  font-family: "Roboto", sans-serif;
+  background-color: #4285f4;
 }
-.small{
-    font-size: 0.8em;
-    color: #ffffff;
+.regular {
+  font-size: 1em;
+  color: #ffffff;
 }
-.c_left{
-    float: left;
+.big {
+  
+  font-size: 3.5em;
+  color: #ffffff;  
+}
+.small {
+  font-size: 0.8em;
+  color: #ffffff;
+}
+.small_gray {
+  font-size: 0.8em;
+  color: #ebe0e0;
 }
 
-.c_right{
-    float: right;
+.c_left {
+  float: left;
+}
+
+.c_right {
+  float: right;
+}
+.head {
+    margin: 0px;
+  padding: 15px;
+  opacity: 0.75;
+  
+ }
+.chart {
+  padding: 15px; 
+  
+}
+img{
+    display: block;
+    text-align: center;
+    width: 90%;
+}
+
+.data {
+  padding: 15px;
+  opacity: 0.75;
+}
+.foot {
+  opacity: 0.75;
+  padding: 60px 15px 5px 15px;
+  text-align: right;
 }
