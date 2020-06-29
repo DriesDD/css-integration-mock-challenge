@@ -12,3 +12,4 @@ This project consists of the elaboration of different challenges to evaluate lea
 [Address2]: https://trial-run-interface2.netlify.app/
 
 ***
+CopyRights to Victor Ortega for BeCode

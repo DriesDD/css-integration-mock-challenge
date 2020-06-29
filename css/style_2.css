@@ -5,6 +5,9 @@
   font-family: "Roboto", sans-serif;
   background-color: #4285f4;
 }
+hr{
+    width: 100%;
+}
 .regular {
   font-size: 1em;
   color: #ffffff;
