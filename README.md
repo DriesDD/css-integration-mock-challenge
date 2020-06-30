@@ -28,11 +28,11 @@ Developed by [Victor Ortega](https://github.com/ortegaVictorBe) for BeCode(https
 
 [Address1]: https://trial-run-interface1.netlify.app/
 
-* Interface#2 [<< View the product >>][Address2] (*for Movile Devices)
+* Interface#2 [<< View the product >>][Address2] (*for Movile Devices) --No Responsive
 
 [Address2]: https://trial-run-interface2.netlify.app/
 
-* Interface#3 [<< View the product >>][Address3]
+* Interface#3 [<< View the product >>][Address3] --No Responsive
 
 [Address3]: https://tiral-run-interface3.netlify.app/
 
