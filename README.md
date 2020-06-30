@@ -11,7 +11,7 @@ This project consists of the elaboration of different challenges to evaluate lea
 ## Restrictions :notebook:
 In relation to the product Interface # 1, due to an involuntary error it was developed in time, using the required structure, but with erroneous content; It has bugs in the font, color and content of the text. it had to be corrected in a short time.
 ***
-## Tools and techs :hammer:
+## Tools and Techs :hammer:
 Building with
 + Visual Studio Code(HTML, CSS)
 + Macromedia Fireworks
@@ -19,7 +19,7 @@ Building with
 + a Lot of Google
 ***
 ## Autor and Rights :bulb:
-Developed  [Victor Ortega](https://github.com/ortegaVictorBe) for BeCode(https://becode.org/)
+Developed by [Victor Ortega](https://github.com/ortegaVictorBe) for BeCode(https://becode.org/)
 **
 
 ## Products :floppy_disk:
